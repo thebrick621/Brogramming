@@ -18,8 +18,3 @@ def invcheck():
     print("")
     for x in current_inv:
       print(color.BLUE + x + color.END)
-
-def inv_menu():
-  navi = essential.prompt()
-  navi = navi.lower()
-  while inv_navi not in 

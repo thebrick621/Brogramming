@@ -1,7 +1,6 @@
 import color
 import essential
 import loc
-import options
 color = color.color
 from scenes import scene1
 from scenes import scene2
